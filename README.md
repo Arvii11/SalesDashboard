@@ -4,6 +4,8 @@
 
 This repository contains a Tableau project titled **"Sales & Customer Dashboards"** created with Tableau 2023.2. The dashboard provides insights into sales and customer data, helping to analyze performance metrics, trends, and customer behavior.
 
+You can view the dashboard online via [this Tableau Public link](https://public.tableau.com/views/SalesCustomerDashboard_17236275002570/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 ## Files in this Repository
 
 ### Tableau File
@@ -36,6 +38,7 @@ This repository contains a Tableau project titled **"Sales & Customer Dashboards
 
 4. **Explore the Dashboard**:
     - Navigate through the different views and dashboards to explore insights on sales and customer data.
+    - Alternatively, you can view the dashboard online via [this Tableau Public link](https://public.tableau.com/views/SalesCustomerDashboard_17236275002570/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Requirements
 
